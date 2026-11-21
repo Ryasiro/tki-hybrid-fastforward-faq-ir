@@ -8,7 +8,7 @@
 Implementasi terverifikasi, evaluasi reproduksibel, antarmuka _Explainable Information Retrieval_ (Streamlit), dan naskah ilmiah untuk sistem temu kembali **FAQ & Pedoman Akademik Perguruan Tinggi** berbasis **Okapi BM25 (IDF Positif)** dan **Fast-Forward Dense Index** (`paraphrase-multilingual-MiniLM-L12-v2` pada CPU).
 
 > 📖 **Dokumentasi teknis & panduan lengkap tersedia di [DOKUMENTASI.md](DOKUMENTASI.md).**
-> 📄 **Naskah paper terverifikasi:** [Naskah_Paper.pdf](Laporan Akhir Kelompok 8.pdf) | [Naskah_Paper.docx](Laporan Akhir Kelompok 8.docx)
+> 📄 **Naskah paper terverifikasi:** [Naskah_Paper.pdf](Naskah_Paper.pdf) | [Naskah_Paper.docx](Naskah_Paper.docx)
 
 ---
 
