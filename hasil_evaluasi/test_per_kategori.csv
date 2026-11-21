@@ -1,0 +1,5 @@
+﻿category,n_queries,BM25_Recall@5,BM25_MRR@5,BM25_nDCG@5,Dense_Recall@5,Dense_MRR@5,Dense_nDCG@5,Hybrid_Recall@5,Hybrid_MRR@5,Hybrid_nDCG@5
+akronim_eksak,7,1.0,1.0,0.9921,1.0,1.0,0.9948,1.0,1.0,1.0
+aturan_pedoman,7,1.0,1.0,1.0,0.9286,0.9048,0.8871,1.0,1.0,0.9921
+parafrasa_sinonim,10,0.75,0.6333,0.6675,0.75,0.6167,0.6457,0.85,0.7833,0.7957
+prosedur_administrasi,6,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0

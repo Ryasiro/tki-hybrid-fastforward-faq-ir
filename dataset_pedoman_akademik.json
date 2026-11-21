@@ -1,0 +1,841 @@
+[
+  {
+    "id": "REG_001",
+    "category": "Registrasi & KRS",
+    "type": "faq",
+    "title": "Batas Waktu Pengisian Kartu Rencana Studi (KRS)",
+    "question": "Kapan batas waktu pengisian KRS untuk semester ganjil dan genap?",
+    "answer": "Pengisian Kartu Rencana Studi (KRS) secara daring melalui sistem informasi akademik (SIMAK/SIAKAD) wajib diselesaikan sesuai jadwal Kalender Akademik setelah pelunasan UKT. Mahasiswa harus menyerahkan print-out KRS yang telah ditandatangani Dosen Pembimbing Akademik (PA) ke sub-bagian akademik/program studi agar terdaftar mengikuti perkuliahan.",
+    "keywords": [
+      "krs",
+      "jadwal krs",
+      "batas waktu",
+      "kalender akademik",
+      "siakad",
+      "registrasi"
+    ],
+    "domain": "Registrasi & KRS",
+    "source_status": "terverifikasi_pedoman_unsri_2026_2027",
+    "source_reference": "Buku Pedoman Akademik UNSRI 2026/2027, Sub-bab 3.2.1 & 3.3 (hal. 40–42)"
+  },
+  {
+    "id": "REG_002",
+    "category": "Registrasi & KRS",
+    "type": "faq",
+    "title": "Prosedur Pengisian KRS yang Terlambat",
+    "question": "Bagaimana prosedur pengisian KRS yang terlambat?",
+    "answer": "Mahasiswa yang terlambat mengisi Kartu Rencana Studi (KRS) wajib menghubungi dosen Pembimbing Akademik (PA), mengajukan surat permohonan dispensasi ke Wakil Dekan I, dan membayar denda administrasi keterlambatan di bagian keuangan rektorat sebelum portal dibuka kembali secara khusus.",
+    "keywords": [
+      "krs terlambat",
+      "dispensasi krs",
+      "denda administrasi",
+      "pembimbing akademik",
+      "pa",
+      "rektorat"
+    ],
+    "domain": "Registrasi & KRS",
+    "source_status": "kurasi_operasional_unit",
+    "source_reference": "Kurasi Operasional Akademik Fakultas (konfirmasi SOP keterlambatan KRS unit terkait)"
+  },
+  {
+    "id": "REG_003",
+    "category": "Registrasi & KRS",
+    "type": "faq",
+    "title": "Batas Maksimal Pengambilan SKS Berdasarkan IPS",
+    "question": "Berapa beban SKS maksimal yang boleh diambil mahasiswa per semester?",
+    "answer": "Beban Satuan Kredit Semester (SKS) ditentukan berdasarkan Indeks Prestasi Semester (IPS) sebelumnya: IPS >= 3.00 berhak mengambil maksimal 24 SKS; IPS 2.50 - 2.99 maksimal 21 SKS; IPS 2.00 - 2.49 maksimal 18 SKS; dan IPS < 2.00 maksimal 15 SKS. Mahasiswa semester 1 dan 2 menggunakan sistem paket 20-21 SKS.",
+    "keywords": [
+      "beban sks",
+      "maksimal sks",
+      "ips",
+      "indeks prestasi",
+      "jatah sks",
+      "paket sks"
+    ],
+    "domain": "Registrasi & KRS",
+    "source_status": "terverifikasi_pedoman_unsri_2026_2027",
+    "source_reference": "Buku Pedoman Akademik UNSRI 2026/2027, Sub-bab 3.4.2 (hal. 43)"
+  },
+  {
+    "id": "REG_004",
+    "category": "Registrasi & KRS",
+    "type": "faq",
+    "title": "Masa Perubahan Kartu Rencana Studi (KPRS)",
+    "question": "Kapan jadwal KPRS dan bagaimana cara membatalkan mata kuliah?",
+    "answer": "Perubahan mata kuliah melalui Kartu Perubahan Rencana Studi (KPRS) dilakukan secara daring sesuai jadwal Kalender Akademik pada awal perkuliahan. Mahasiswa dapat menambah, mengganti, atau membatalkan mata kuliah setelah berkonsultasi dan memperoleh persetujuan Dosen Pembimbing Akademik (PA).",
+    "keywords": [
+      "kprs",
+      "ubah krs",
+      "batal mata kuliah",
+      "tambah matkul",
+      "ganti kelas",
+      "dosen pa"
+    ],
+    "domain": "Registrasi & KRS",
+    "source_status": "terverifikasi_pedoman_unsri_2026_2027",
+    "source_reference": "Buku Pedoman Akademik UNSRI 2026/2027, Sub-bab 3.2.5 & 3.3 (hal. 41–42)"
+  },
+  {
+    "id": "REG_005",
+    "category": "Registrasi & KRS",
+    "type": "faq",
+    "title": "Peran dan Kewajiban Konsultasi Dosen Pembimbing Akademik (PA)",
+    "question": "Kapan mahasiswa wajib melakukan bimbingan akademik dengan Dosen PA?",
+    "answer": "Mahasiswa wajib berkonsultasi dengan Dosen PA minimal 3 kali per semester: saat penyusunan dan validasi KRS awal semester, evaluasi capaian Ujian Tengah Semester (UTS), dan evaluasi akhir semester menjelang pengumuman KHS.",
+    "keywords": [
+      "dosen pa",
+      "pembimbing akademik",
+      "perwalian",
+      "bimbingan",
+      "khs",
+      "konsultasi"
+    ],
+    "domain": "Registrasi & KRS",
+    "source_status": "terverifikasi_pedoman_unsri_2026_2027",
+    "source_reference": "Buku Pedoman Akademik UNSRI 2026/2027, Sub-bab 3.5.1–3.5.2 (hal. 43–44)"
+  },
+  {
+    "id": "REG_006",
+    "category": "Registrasi & KRS",
+    "type": "faq",
+    "title": "Ketentuan Bentrok Jadwal Kuliah pada KRS",
+    "question": "Apa solusi jika mata kuliah yang ingin diambil jadwalnya bentrok di SIAKAD?",
+    "answer": "Sistem SIAKAD secara otomatis menolak pemilihan mata kuliah dengan jadwal hari dan jam yang bertabrakan. Mahasiswa wajib memilih kelas paralel lain atau mengajukan permohonan pembukaan kelas baru ke jurusan jika kelas paralel lainnya telah penuh.",
+    "keywords": [
+      "jadwal bentrok",
+      "kelas tabrakan",
+      "kelas paralel",
+      "pembukaan kelas baru",
+      "jurusan"
+    ],
+    "domain": "Registrasi & KRS",
+    "source_status": "terverifikasi_pedoman_unsri_2026_2027",
+    "source_reference": "Buku Pedoman Akademik UNSRI 2026/2027, Sub-bab 3.2.4 (hal. 41)"
+  },
+  {
+    "id": "KEU_001",
+    "category": "Keuangan & UKT",
+    "type": "faq",
+    "title": "Batas Akhir Pembayaran UKT Semester",
+    "question": "Kapan batas akhir pembayaran UKT semester ini?",
+    "answer": "Pembayaran Uang Kuliah Tunggal (UKT) dilakukan setiap semester sesuai jadwal Kalender Akademik melalui bank mitra yang ditunjuk dan terintegrasi langsung dengan SIMAK Universitas Sriwijaya. Mahasiswa baru dapat mengisi KRS setelah tagihan UKT lunas, sedangkan pembayaran tertunda maksimal 2 bulan setelah batas akhir dengan izin resmi.",
+    "keywords": [
+      "ukt",
+      "bayar ukt",
+      "batas akhir",
+      "bank mitra",
+      "virtual account",
+      "va"
+    ],
+    "domain": "Keuangan & UKT",
+    "source_status": "terverifikasi_pedoman_unsri_2026_2027",
+    "source_reference": "Buku Pedoman Akademik UNSRI 2026/2027, Sub-bab 3.3 & 6.1.5 (hal. 42, 119)"
+  },
+  {
+    "id": "KEU_002",
+    "category": "Keuangan & UKT",
+    "type": "faq",
+    "title": "Syarat Pengajuan Penundaan atau Angsuran UKT",
+    "question": "Bagaimana prosedur mencicil atau menunda pembayaran UKT?",
+    "answer": "Pengajuan penundaan atau cicilan UKT dibuka 2 minggu sebelum batas pembayaran. Mahasiswa wajib melampirkan surat permohonan orang tua, surat keterangan kendala finansial dari kelurahan, dan slip gaji/penghasilan terakhir yang diverifikasi oleh Bagian Keuangan Rektorat.",
+    "keywords": [
+      "angsuran ukt",
+      "cicil ukt",
+      "penundaan ukt",
+      "keringanan ukt",
+      "finansial",
+      "surat permohonan"
+    ],
+    "domain": "Keuangan & UKT",
+    "source_status": "kurasi_operasional_unit",
+    "source_reference": "Kurasi Operasional Keuangan Rektorat (konfirmasi jadwal & berkas penundaan UKT tiap semester)"
+  },
+  {
+    "id": "KEU_003",
+    "category": "Keuangan & UKT",
+    "type": "faq",
+    "title": "Pembebasan atau Penurunan UKT Mahasiswa Tingkat Akhir (Semester 9+)",
+    "question": "Apakah mahasiswa yang tinggal skripsi mendapatkan diskon atau bebas UKT?",
+    "answer": "Mahasiswa program Sarjana yang berada di semester 9 ke atas dan hanya menyisakan tugas akhir/skripsi (beban <= 6 SKS) berhak mengajukan penyesuaian penurunan UKT sebesar 50% dari tarif normal dengan menyerahkan bukti transkrip dan surat keterangan dari jurusan.",
+    "keywords": [
+      "diskon ukt",
+      "potongan 50 persen",
+      "semester akhir",
+      "skripsi saja",
+      "tinggal tugas akhir",
+      "semester 9"
+    ],
+    "domain": "Keuangan & UKT",
+    "source_status": "kurasi_operasional_unit",
+    "source_reference": "Kurasi Operasional Keuangan (mengacu kebijakan penurunan UKT semester akhir yang berlaku)"
+  },
+  {
+    "id": "KEU_004",
+    "category": "Keuangan & UKT",
+    "type": "faq",
+    "title": "Prosedur Pengajuan Peninjauan Kembali Golongan UKT",
+    "question": "Bagaimana cara mengubah golongan UKT jika terjadi perubahan kondisi ekonomi keluarga?",
+    "answer": "Peninjauan kembali golongan UKT dapat diajukan sekali dalam satu tahun akademik jika terjadi kematian orang tua penanggung biaya, pensiun, pemutusan hubungan kerja (PHK), atau pailit usaha dengan melampirkan berkas bukti legalitas ke dekanat fakultas.",
+    "keywords": [
+      "turun golongan ukt",
+      "banding ukt",
+      "phk",
+      "orang tua meninggal",
+      "keringanan ekonomi"
+    ],
+    "domain": "Keuangan & UKT",
+    "source_status": "kurasi_operasional_unit",
+    "source_reference": "Kurasi Operasional Keuangan (verifikasi berkas peninjauan golongan UKT di fakultas/rektorat)"
+  },
+  {
+    "id": "KEU_005",
+    "category": "Keuangan & UKT",
+    "type": "faq",
+    "title": "Pengembalian Kelebihan Pembayaran UKT",
+    "question": "Bagaimana prosedur klaim pengembalian dana jika terjadi kelebihan bayar UKT?",
+    "answer": "Klaim kelebihan bayar UKT diajukan ke Bagian Keuangan Rektorat dengan membawa bukti transfer asli, fotokopi buku tabungan mahasiswa, surat pengantar dari fakultas, dan surat permohonan pengembalian dana bermeterai Rp10.000.",
+    "keywords": [
+      "kelebihan bayar ukt",
+      "refund ukt",
+      "pengembalian dana",
+      "keuangan rektorat",
+      "meterai"
+    ],
+    "domain": "Keuangan & UKT",
+    "source_status": "kurasi_operasional_unit",
+    "source_reference": "Kurasi Operasional Direktorat Keuangan dan Akuntansi UNSRI"
+  },
+  {
+    "id": "ADM_001",
+    "category": "Identitas & Dokumen",
+    "type": "faq",
+    "title": "Syarat Mengurus Kartu Pengenal Mahasiswa (KPM) yang Rusak atau Hilang",
+    "question": "Apa syarat mengurus Kartu Pengenal Mahasiswa (KPM) yang rusak atau hilang?",
+    "answer": "Untuk mengganti Kartu Pengenal Mahasiswa (KPM) Universitas Sriwijaya yang rusak atau hilang, mahasiswa mengisi formulir permohonan pembuatan KPM pengganti (Lampiran 5) ke Direktorat Akademik dengan melampirkan surat keterangan kehilangan dari kepolisian atau KPM rusak, serta fotokopi KTP/SIM atau surat keterangan dari fakultas/departemen.",
+    "keywords": [
+      "kpm hilang",
+      "kpm rusak",
+      "cetak ulang kpm",
+      "kartu pengenal mahasiswa",
+      "surat kepolisian",
+      "direktorat akademik"
+    ],
+    "domain": "Identitas & Dokumen",
+    "source_status": "terverifikasi_pedoman_unsri_2026_2027",
+    "source_reference": "Buku Pedoman Akademik UNSRI 2026/2027, Sub-bab 6.1.3 & Lampiran 5 (hal. 118–119, 138)"
+  },
+  {
+    "id": "ADM_002",
+    "category": "Identitas & Dokumen",
+    "type": "faq",
+    "title": "Pembuatan Surat Keterangan Mahasiswa Aktif",
+    "question": "Bagaimana cara mendapatkan surat keterangan masih aktif kuliah?",
+    "answer": "Pembuatan Surat Keterangan sebagai Mahasiswa Aktif Universitas Sriwijaya dilayani oleh Direktorat Akademik (maupun layanan fakultas) dengan mengisi formulir pelayanan akademik (Lampiran 3) melalui departemen/program studi yang diketahui Dekan atau Direktur Sekolah untuk keperluan tunjangan orang tua, BPJS, atau beasiswa.",
+    "keywords": [
+      "surat aktif kuliah",
+      "surat keterangan",
+      "bpjs",
+      "tunjangan pns",
+      "beasiswa",
+      "tte"
+    ],
+    "domain": "Identitas & Dokumen",
+    "source_status": "terverifikasi_pedoman_unsri_2026_2027",
+    "source_reference": "Buku Pedoman Akademik UNSRI 2026/2027, Sub-bab 6.1.1 & Lampiran 3 (hal. 118, 134)"
+  },
+  {
+    "id": "ADM_003",
+    "category": "Identitas & Dokumen",
+    "type": "faq",
+    "title": "Prosedur Legalisir Ijazah dan Transkrip Akademik",
+    "question": "Bagaimana alur pengajuan legalisir transkrip nilai akademik?",
+    "answer": "Pelayanan legalisir ijazah dan transkrip akademik dilakukan di Fakultas masing-masing dengan mengisi formulir pelayanan legalisir (Lampiran 14) serta membawa ijazah/transkrip asli dan salinan cetak untuk disahkan oleh pejabat berwenang.",
+    "keywords": [
+      "legalisir",
+      "transkrip nilai",
+      "tata usaha",
+      "cap basah",
+      "salinan transkrip"
+    ],
+    "domain": "Identitas & Dokumen",
+    "source_status": "terverifikasi_pedoman_unsri_2026_2027",
+    "source_reference": "Buku Pedoman Akademik UNSRI 2026/2027, Sub-bab 6.2.1 & Lampiran 14 (hal. 121, 151)"
+  },
+  {
+    "id": "ADM_004",
+    "category": "Identitas & Dokumen",
+    "type": "faq",
+    "title": "Surat Keterangan Pengganti Ijazah/Transkrip yang Rusak atau Hilang",
+    "question": "Apakah ijazah atau transkrip sarjana yang hilang atau rusak bisa dicetak ulang oleh universitas?",
+    "answer": "Universitas Sriwijaya tidak mencetak ulang ijazah atau transkrip yang rusak atau hilang. Sebagai gantinya, Direktorat Akademik menerbitkan Surat Keterangan Pengganti Ijazah/Transkrip resmi (menggunakan Formulir Lampiran 15) dengan melampirkan bukti pendukung seperti surat laporan kehilangan kepolisian. Dokumen ini berbeda dari SKPI (Surat Keterangan Pendamping Ijazah).",
+    "keywords": [
+      "ijazah hilang",
+      "surat pengganti ijazah",
+      "transkrip hilang",
+      "lampiran 15",
+      "direktorat akademik"
+    ],
+    "domain": "Identitas & Dokumen",
+    "source_status": "terverifikasi_pedoman_unsri_2026_2027",
+    "source_reference": "Buku Pedoman Akademik UNSRI 2026/2027, Sub-bab 6.2.2 & Lampiran 15 (hal. 121, 152)"
+  },
+  {
+    "id": "CUTI_001",
+    "category": "Status Studi & Cuti",
+    "type": "faq",
+    "title": "Prosedur dan Syarat Pengajuan Cuti Akademik atau Stop Out (SO)",
+    "question": "Bagaimana cara dan syarat mengajukan cuti akademik atau Stop Out (SO)?",
+    "answer": "Pengajuan cuti akademik atau Stop Out (SO) diajukan kepada Rektor melalui Koordinator Program Studi dan Dekan (Formulir Lampiran 6) paling lambat minggu ke-3 semester berjalan, dengan syarat telah menempuh minimal 50% total SKS wajib. Penerima beasiswa KIP-K/beasiswa penuh tidak diperbolehkan mengambil SO. Persetujuan ditetapkan melalui SK Rektor.",
+    "keywords": [
+      "cuti akademik",
+      "stop out",
+      "so",
+      "sk rektor",
+      "lampiran 6",
+      "syarat cuti"
+    ],
+    "domain": "Status Studi & Cuti",
+    "source_status": "terverifikasi_pedoman_unsri_2026_2027",
+    "source_reference": "Buku Pedoman Akademik UNSRI 2026/2027, Sub-bab 3.9 & 6.1.4 (hal. 66–67, 119)"
+  },
+  {
+    "id": "CUTI_002",
+    "category": "Status Studi & Cuti",
+    "type": "faq",
+    "title": "Batas Maksimal Cuti Akademik (Stop Out) dan Pengaruhnya ke Masa Studi",
+    "question": "Berapa semester maksimal Stop Out (cuti akademik) dan apakah dihitung sebagai masa studi?",
+    "answer": "Lama cuti akademik atau Stop Out (SO) maksimum adalah 1 semester bagi program Diploma Tiga, Sarjana (S1), dan Magister, serta maksimum 2 semester bagi program Doktor. Selama masa SO mahasiswa tidak membayar UKT dan tidak mengikuti kegiatan akademik, namun lama masa SO tetap diperhitungkan ke dalam batas masa studi maksimal.",
+    "keywords": [
+      "maksimal stop out",
+      "lama cuti",
+      "1 semester",
+      "masa studi",
+      "tidak bayar ukt"
+    ],
+    "domain": "Status Studi & Cuti",
+    "source_status": "terverifikasi_pedoman_unsri_2026_2027",
+    "source_reference": "Buku Pedoman Akademik UNSRI 2026/2027, Sub-bab 3.4.1 & 3.9 (hal. 42, 67)"
+  },
+  {
+    "id": "CUTI_003",
+    "category": "Status Studi & Cuti",
+    "type": "faq",
+    "title": "Konsekuensi Tidak Membayar UKT Tanpa Izin Stop Out (Putus Studi)",
+    "question": "Apa sanksi jika mahasiswa tidak membayar UKT sampai batas waktu dan tidak mengajukan Stop Out?",
+    "answer": "Berdasarkan kriteria putus studi Universitas Sriwijaya, mahasiswa yang tidak membayar UKT sampai batas waktu yang ditetapkan dan tidak mengajukan izin cuti akademik/Stop Out (SO) memenuhi kriteria putus studi (Drop Out / DO) yang dapat ditetapkan melalui sistem informasi akademik maupun SK Rektor.",
+    "keywords": [
+      "tidak bayar ukt",
+      "tanpa izin so",
+      "putus studi",
+      "drop out",
+      "do",
+      "sk rektor"
+    ],
+    "domain": "Status Studi & Cuti",
+    "source_status": "terverifikasi_pedoman_unsri_2026_2027",
+    "source_reference": "Buku Pedoman Akademik UNSRI 2026/2027, Sub-bab 3.8.1–3.8.2 (hal. 65–66)"
+  },
+  {
+    "id": "CUTI_004",
+    "category": "Status Studi & Cuti",
+    "type": "faq",
+    "title": "Prosedur Pengaktifan Kembali Setelah Masa Cuti Berakhir",
+    "question": "Bagaimana cara aktif kuliah kembali setelah selesai masa cuti akademik?",
+    "answer": "Satu bulan sebelum semester baru dimulai, mahasiswa wajib mengajukan Surat Permohonan Aktif Kembali ke Dekan Fakultas melalui BAAK untuk membuka akses tagihan UKT dan aktivasi akun SIAKAD.",
+    "keywords": [
+      "aktif kembali",
+      "selesai cuti",
+      "buka akun siakad",
+      "baak",
+      "permohonan aktif"
+    ],
+    "domain": "Status Studi & Cuti",
+    "source_status": "kurasi_operasional_unit",
+    "source_reference": "Kurasi Operasional Direktorat Akademik (prosedur registrasi aktif kembali pasca masa SO)"
+  },
+  {
+    "id": "TIK_001",
+    "category": "Layanan TI & SIAKAD",
+    "type": "faq",
+    "title": "Solusi Lupa Kata Sandi atau Akun SIAKAD Terkunci",
+    "question": "Solusi jika tidak bisa login ke portal akademik mahasiswa?",
+    "answer": "Jika Anda lupa kata sandi atau akun SIAKAD terkunci, silakan lakukan reset password mandiri melalui tombol 'Lupa Password' menggunakan email resmi kampus (@student.unsri.ac.id) atau kunjungi Unit Pelaksana Teknis Teknologi Informasi dan Komunikasi (UPT TIK) di Gedung Perpustakaan Pusat.",
+    "keywords": [
+      "lupa password",
+      "siakad terkunci",
+      "gagal login",
+      "reset kata sandi",
+      "upt tik",
+      "email kampus"
+    ],
+    "domain": "Layanan TI & SIAKAD",
+    "source_status": "kurasi_operasional_unit",
+    "source_reference": "Kurasi Operasional Direktorat Pelayanan dan Pengembangan TI / UPT TIK UNSRI (Sub-bab 1.8.11, hal. 30)"
+  },
+  {
+    "id": "TIK_002",
+    "category": "Layanan TI & SIAKAD",
+    "type": "faq",
+    "title": "Aktivasi Akun Email Resmi Mahasiswa dan Akses WiFi Eduroam",
+    "question": "Bagaimana cara mengaktifkan email student dan koneksi WiFi kampus?",
+    "answer": "Aktivasi email institusi student dilakukan otomatis saat mahasiswa menyelesaikan pendaftaran ulang semester 1 dengan format NIM@student.unsri.ac.id. Akun ini dapat digunakan untuk login ke jaringan WiFi Eduroam kampus, portal Google Workspace for Education, dan Microsoft 365.",
+    "keywords": [
+      "email student",
+      "eduroam",
+      "wifi kampus",
+      "google workspace",
+      "aktivasi akun",
+      "upt tik"
+    ],
+    "domain": "Layanan TI & SIAKAD",
+    "source_status": "kurasi_operasional_unit",
+    "source_reference": "Kurasi Operasional Direktorat Pelayanan dan Pengembangan TI UNSRI"
+  },
+  {
+    "id": "TIK_003",
+    "category": "Layanan TI & SIAKAD",
+    "type": "faq",
+    "title": "Akses E-Journal Internasional (IEEE, Scopus, Springer) via Proxy/VPN Kampus",
+    "question": "Bagaimana cara mengakses jurnal ilmiah internasional langganan universitas dari rumah?",
+    "answer": "Akses basis data jurnal internasional (IEEE Xplore, ScienceDirect, SpringerLink, Scopus) dari luar jaringan kampus dapat dilakukan menggunakan akun Single Sign-On (SSO) pada portal Remote Access Perpustakaan Pusat atau melalui jaringan OpenVPN UNSRI.",
+    "keywords": [
+      "akses jurnal",
+      "ieee xplore",
+      "scopus",
+      "sciencedirect",
+      "vpn kampus",
+      "perpustakaan",
+      "sso"
+    ],
+    "domain": "Layanan TI & SIAKAD",
+    "source_status": "terverifikasi_pedoman_unsri_2026_2027",
+    "source_reference": "Buku Pedoman Akademik UNSRI 2026/2027, Sub-bab 4.2.6 Fasilitas Perpustakaan (hal. 84–85)"
+  },
+  {
+    "id": "AKD_001",
+    "category": "Perkuliahan & Ujian",
+    "type": "faq",
+    "title": "Syarat Minimum Kehadiran Perkuliahan di Universitas Sriwijaya",
+    "question": "Berapa persen minimal kehadiran kuliah agar mahasiswa memenuhi syarat pembelajaran efektif?",
+    "answer": "Mahasiswa wajib mengikuti kegiatan pembelajaran pada mata kuliah yang diikutinya minimal 85% dari total pembelajaran efektif yang ditetapkan. Mahasiswa yang tidak dapat hadir karena menjalankan tugas/kegiatan melembaga dengan surat tugas resmi dari Universitas Sriwijaya atau Fakultas wajib difasilitasi dan tetap dihitung sebagai kehadiran.",
+    "keywords": [
+      "kehadiran kuliah",
+      "minimal presensi",
+      "85 persen",
+      "surat tugas",
+      "pembelajaran efektif"
+    ],
+    "domain": "Perkuliahan & Ujian",
+    "source_status": "terverifikasi_pedoman_unsri_2026_2027",
+    "source_reference": "Buku Pedoman Akademik UNSRI 2026/2027, Sub-bab 3.2.2 (hal. 40)"
+  },
+  {
+    "id": "AKD_002",
+    "category": "Perkuliahan & Ujian",
+    "type": "faq",
+    "title": "Prosedur Mengikuti Ujian Susulan (UTS atau UAS) Karena Sakit",
+    "question": "Bagaimana syarat dan cara mengajukan ujian susulan UTS atau UAS?",
+    "answer": "Ujian susulan hanya diberikan untuk alasan sakit rawat inap (melampirkan surat dokter rumah sakit) atau musibah keluarga inti. Permohonan ujian susulan wajib diajukan ke jurusan maksimal 3 hari kerja setelah jadwal ujian yang bersangkutan.",
+    "keywords": [
+      "ujian susulan",
+      "uts susulan",
+      "uas susulan",
+      "surat sakit",
+      "rawat inap",
+      "dispensasi ujian"
+    ],
+    "domain": "Perkuliahan & Ujian",
+    "source_status": "kurasi_operasional_unit",
+    "source_reference": "Kurasi Operasional Akademik Jurusan/Fakultas (konfirmasi SOP ujian susulan program studi)"
+  },
+  {
+    "id": "AKD_003",
+    "category": "Perkuliahan & Ujian",
+    "type": "faq",
+    "title": "Ketentuan Semester Antara (Semester Pendek)",
+    "question": "Apa syarat dan batas maksimal SKS serta mata kuliah pada Semester Antara?",
+    "answer": "Semester Antara diselenggarakan pada jeda antara semester genap dan ganjil (Juni–Juli) untuk mata kuliah mengulang, mata kuliah baru, atau pengayaan tanpa responsi/praktikum/laboratorium. Jumlah yang dapat diambil maksimum 3 mata kuliah atau maksimum 9 SKS sesuai kesepakatan program studi.",
+    "keywords": [
+      "semester antara",
+      "semester pendek",
+      "maksimum 9 sks",
+      "maksimum 3 matkul",
+      "tanpa praktikum"
+    ],
+    "domain": "Perkuliahan & Ujian",
+    "source_status": "terverifikasi_pedoman_unsri_2026_2027",
+    "source_reference": "Buku Pedoman Akademik UNSRI 2026/2027, Sub-bab 3.2.2–3.2.3 (hal. 40–41)"
+  },
+  {
+    "id": "AKD_004",
+    "category": "Perkuliahan & Ujian",
+    "type": "faq",
+    "title": "Prosedur Sanggah Nilai Ujian Akhir Semester",
+    "question": "Bagaimana prosedur komplain atau sanggah jika nilai di KHS tidak sesuai?",
+    "answer": "Masa sanggah nilai dibuka selama 7 hari kalender setelah nilai akhir diumumkan di SIAKAD. Mahasiswa dapat menemui dosen pengampu mata kuliah dengan membawa bukti tugas, presensi, dan berkas ujian untuk klarifikasi sebelum nilai dikunci permanen oleh jurusan.",
+    "keywords": [
+      "sanggah nilai",
+      "komplain nilai",
+      "khs",
+      "revisi nilai",
+      "dosen pengampu",
+      "klarifikasi nilai"
+    ],
+    "domain": "Perkuliahan & Ujian",
+    "source_status": "kurasi_operasional_unit",
+    "source_reference": "Kurasi Operasional Evaluasi Pembelajaran Program Studi (Sub-bab 3.7.1, hal. 56–64)"
+  },
+  {
+    "id": "MBKM_001",
+    "category": "Program MBKM",
+    "type": "faq",
+    "title": "Syarat Pendaftaran dan Rekognisi Konversi SKS Program MBKM",
+    "question": "Apa syarat mengikuti program Magang dan Studi Independen Bersertifikat (MSIB)?",
+    "answer": "Mahasiswa aktif program Sarjana minimal semester 5 dengan IPK kumulatif >= 3.00 dan telah lulus mata kuliah dasar keahlian berhak mengikuti MSIB. Program ini dapat direkognisi setara 20 SKS setelah disetujui oleh Koordinator Program Studi dan Dosen Pembimbing Lapangan.",
+    "keywords": [
+      "msib",
+      "mbkm",
+      "magang bersertifikat",
+      "studi independen",
+      "konversi 20 sks",
+      "semester 5"
+    ],
+    "domain": "Program MBKM",
+    "source_status": "terverifikasi_pedoman_unsri_2026_2027",
+    "source_reference": "Buku Pedoman Akademik UNSRI 2026/2027, Sub-bab 1.10.4 Pembelajaran Fleksibel & 3.2 (hal. 32, 39–40)"
+  },
+  {
+    "id": "MBKM_002",
+    "category": "Program MBKM",
+    "type": "faq",
+    "title": "Prosedur Pertukaran Mahasiswa Merdeka (PMM)",
+    "question": "Bagaimana mekanisme konversi nilai untuk program Pertukaran Mahasiswa Merdeka?",
+    "answer": "Sebelum keberangkatan program Pertukaran Mahasiswa Merdeka (PMM), mahasiswa wajib menyusun formulir rencana konversi mata kuliah (learning agreement) yang disetujui Kaprodi. Nilai dari perguruan tinggi mitra akan ditransfer ke transkrip SIAKAD setelah kegiatan selesai.",
+    "keywords": [
+      "pmm",
+      "pertukaran mahasiswa",
+      "learning agreement",
+      "transfer nilai",
+      "kampus mitra",
+      "kaprodi"
+    ],
+    "domain": "Program MBKM",
+    "source_status": "terverifikasi_pedoman_unsri_2026_2027",
+    "source_reference": "Buku Pedoman Akademik UNSRI 2026/2027, Sub-bab 1.10.4 & 3.2 (hal. 32, 39–40)"
+  },
+  {
+    "id": "MBKM_003",
+    "category": "Program MBKM",
+    "type": "faq",
+    "title": "Syarat dan Pelaksanaan Kuliah Kerja Nyata (KKN)",
+    "question": "Kapan mahasiswa bisa mendaftar KKN dan apa persyaratannya?",
+    "answer": "Pendaftaran KKN tematik atau reguler dibuka untuk mahasiswa yang telah menyelesaikan minimal 100 SKS. Mahasiswa wajib mendaftar melalui Lembaga Penelitian dan Pengabdian kepada Masyarakat (LPPM) dan mengikuti pembekalan pra-pemberangkatan.",
+    "keywords": [
+      "kkn",
+      "kuliah kerja nyata",
+      "lppm",
+      "syarat kkn",
+      "minimal 100 sks",
+      "pengabdian masyarakat"
+    ],
+    "domain": "Program MBKM",
+    "source_status": "terverifikasi_pedoman_unsri_2026_2027",
+    "source_reference": "Buku Pedoman Akademik UNSRI 2026/2027, Sub-bab 1.8.14 LPPM (hal. 30–31)"
+  },
+  {
+    "id": "TA_001",
+    "category": "Tugas Akhir & Kelulusan",
+    "type": "faq",
+    "title": "Syarat Akademik Pengajuan Seminar Proposal dan Skripsi",
+    "question": "Berapa syarat minimal SKS yang sudah lulus untuk mengambil Tugas Akhir/Skripsi?",
+    "answer": "Mahasiswa berhak mendaftar Seminar Proposal Tugas Akhir setelah menyelesaikan minimal 110 SKS dengan IPK >= 2.50, telah lulus mata kuliah Metodologi Penelitian dengan nilai minimal C, dan tidak memiliki nilai E pada transkrip akademik.",
+    "keywords": [
+      "syarat skripsi",
+      "tugas akhir",
+      "seminar proposal",
+      "sempro",
+      "minimal 110 sks",
+      "metodologi penelitian"
+    ],
+    "domain": "Tugas Akhir & Kelulusan",
+    "source_status": "terverifikasi_pedoman_unsri_2026_2027",
+    "source_reference": "Buku Pedoman Akademik UNSRI 2026/2027, Sub-bab 3.6.1–3.6.3 (hal. 45–49)"
+  },
+  {
+    "id": "TA_002",
+    "category": "Tugas Akhir & Kelulusan",
+    "type": "faq",
+    "title": "Pemeriksaan Kemiripan Plagiasi Turnitin dan iThenticate pada Tugas Akhir",
+    "question": "Bagaimana aturan cek plagiasi Turnitin atau iThenticate untuk naskah skripsi dan publikasi?",
+    "answer": "Sebelum yudisium, naskah tugas akhir (proyek akhir, skripsi, tesis, atau disertasi) wajib melalui pemeriksaan kesamaan/kemiripan (similarity checking) menggunakan aplikasi Turnitin, sedangkan draf artikel publikasi jurnal/prosiding diperiksa memakai iThenticate yang tata caranya diatur oleh UPT Perpustakaan UNSRI.",
+    "keywords": [
+      "turnitin",
+      "ithenticate",
+      "plagiasi",
+      "similarity checking",
+      "upt perpustakaan",
+      "yudisium"
+    ],
+    "domain": "Tugas Akhir & Kelulusan",
+    "source_status": "terverifikasi_pedoman_unsri_2026_2027",
+    "source_reference": "Buku Pedoman Akademik UNSRI 2026/2027, Sub-bab 3.11 Pencegahan Tindakan Plagiasi (hal. 70)"
+  },
+  {
+    "id": "TA_003",
+    "category": "Tugas Akhir & Kelulusan",
+    "type": "faq",
+    "title": "Syarat Pendaftaran Yudisium dan Skor USEPT Kelulusan Sarjana",
+    "question": "Apa syarat yudisium kelulusan sarjana dan tes bahasa Inggris USEPT di UNSRI?",
+    "answer": "Syarat yudisium Program Sarjana meliputi: menuntaskan seluruh SKS kurikulum dalam batas masa studi, IPK >= 2,00, tanpa nilai E, nilai D maksimal 10% total SKS minimum, lolos pemeriksaan kesamaan naskah (Turnitin), serta memenuhi standar skor USEPT (Universitas Sriwijaya English Proficiency Test) yang dikelola BPU UNSRI (https://suliet.unsri.ac.id/usept/).",
+    "keywords": [
+      "yudisium",
+      "kelulusan",
+      "usept",
+      "tes bahasa inggris",
+      "ipk minimal",
+      "nilai d 10 persen"
+    ],
+    "domain": "Tugas Akhir & Kelulusan",
+    "source_status": "terverifikasi_pedoman_unsri_2026_2027",
+    "source_reference": "Buku Pedoman Akademik UNSRI 2026/2027, Sub-bab 3.12.1 & 4.2.10 (hal. 71, 92–93)"
+  },
+  {
+    "id": "TA_004",
+    "category": "Tugas Akhir & Kelulusan",
+    "type": "faq",
+    "title": "Masa Berlaku Surat Keputusan (SK) Dosen Pembimbing Skripsi",
+    "question": "Berapa lama masa berlaku SK pembimbing skripsi sebelum harus diperpanjang?",
+    "answer": "SK Pembimbing Skripsi berlaku selama 6 bulan sejak tanggal diterbitkan oleh Dekan. Jika mahasiswa belum menyelesaikan sidang komprehensif dalam kurun waktu tersebut, mahasiswa wajib mengajukan perpanjangan SK ke jurusan dengan melampirkan logbook kemajuan bimbingan.",
+    "keywords": [
+      "sk pembimbing",
+      "masa berlaku skripsi",
+      "perpanjang sk",
+      "6 bulan",
+      "logbook bimbingan"
+    ],
+    "domain": "Tugas Akhir & Kelulusan",
+    "source_status": "kurasi_operasional_unit",
+    "source_reference": "Kurasi Operasional Jurusan/Fakultas (Sub-bab 3.6.5 Pembimbing Tugas Akhir, hal. 50–52)"
+  },
+  {
+    "id": "BEA_001",
+    "category": "Beasiswa & Bantuan",
+    "type": "faq",
+    "title": "Ketentuan IPK Minimum Pemegang Beasiswa KIP Kuliah",
+    "question": "Berapa standar IPK minimal agar beasiswa KIP Kuliah tidak dicabut?",
+    "answer": "Mahasiswa penerima beasiswa KIP Kuliah wajib mempertahankan Indeks Prestasi Semester (IPS) dan IPK minimal 3.00 pada setiap semester. Jika IPK berada di bawah standar tersebut selama 2 semester berturut-turut, status kepesertaan beasiswa dapat dibatalkan.",
+    "keywords": [
+      "kip kuliah",
+      "beasiswa kip",
+      "ipk minimal",
+      "evaluasi beasiswa",
+      "pencabutan beasiswa"
+    ],
+    "domain": "Beasiswa & Bantuan",
+    "source_status": "terverifikasi_pedoman_unsri_2026_2027",
+    "source_reference": "Buku Pedoman Akademik UNSRI 2026/2027, Sub-bab 2.1.5 KIP Kuliah & 4.7 Beasiswa (hal. 35, 103)"
+  },
+  {
+    "id": "BEA_002",
+    "category": "Beasiswa & Bantuan",
+    "type": "faq",
+    "title": "Pendaftaran Beasiswa Bank Indonesia (BI), Djarum, dan BUMN",
+    "question": "Apa syarat umum mendaftar beasiswa kemitraan universitas?",
+    "answer": "Syarat umum meliputi mahasiswa aktif semester 4-6, IPK minimal 3.25, tidak sedang menerima beasiswa lain, aktif dalam organisasi kemahasiswaan, dan lolos seleksi berkas serta wawancara yang diselenggarakan Bagian Kemahasiswaan Rektorat.",
+    "keywords": [
+      "beasiswa bi",
+      "beasiswa djarum",
+      "kemahasiswaan rektorat",
+      "beasiswa bumn",
+      "seleksi beasiswa"
+    ],
+    "domain": "Beasiswa & Bantuan",
+    "source_status": "terverifikasi_pedoman_unsri_2026_2027",
+    "source_reference": "Buku Pedoman Akademik UNSRI 2026/2027, Sub-bab 4.7 Beasiswa (hal. 103)"
+  },
+  {
+    "id": "PEDOMAN_BAB4_P1",
+    "category": "Pedoman UNSRI Bab III & VI",
+    "type": "passage",
+    "parent_doc": "Buku Pedoman Akademik Universitas Sriwijaya",
+    "chapter": "Bab IV Sistem Kredit Semester dan Registrasi",
+    "section": "Pasal 14: Tata Cara Pendaftaran Ulang Mahasiswa Lama",
+    "passage_index": 1,
+    "title": "Syarat Status Mahasiswa Aktif dan Pelunasan UKT (Sub-bab 3.3 & 6.1.5)",
+    "question": "Bagaimana aturan resmi UNSRI tentang syarat status mahasiswa aktif dan pembayaran UKT pada Sub-bab 3.3 dan 6.1.5?",
+    "answer": "Sub-bab 3.3 dan 6.1.5 Pedoman UNSRI 2026/2027 menetapkan bahwa pelayanan akademik hanya diberikan kepada mahasiswa berstatus aktif, melunasi UKT melalui bank mitra yang terintegrasi SIMAK (atau penundaan maksimal 2 bulan setelah batas akhir), tidak sedang dalam masa Stop Out atau skorsing, serta telah mengisi KRS secara daring.",
+    "keywords": [
+      "sub-bab 3.3",
+      "sub-bab 6.1.5",
+      "mahasiswa aktif",
+      "simak",
+      "pelunasan ukt",
+      "kalender akademik"
+    ],
+    "domain": "Pedoman UNSRI Bab III & VI",
+    "source_status": "terverifikasi_pedoman_unsri_2026_2027",
+    "source_reference": "Buku Pedoman Akademik UNSRI 2026/2027, Sub-bab 3.3 & 6.1.5 (hal. 41–42, 119)"
+  },
+  {
+    "id": "PEDOMAN_BAB4_P2",
+    "category": "Pedoman UNSRI Bab III",
+    "type": "passage",
+    "parent_doc": "Buku Pedoman Akademik Universitas Sriwijaya",
+    "chapter": "Bab IV Sistem Kredit Semester dan Registrasi",
+    "section": "Pasal 15: Prosedur Pengisian dan Perubahan KRS Online",
+    "passage_index": 2,
+    "title": "Syarat Mengikuti Perkuliahan dan Pengesahan KRS oleh Dosen PA (Sub-bab 3.2.1)",
+    "question": "Bagaimana ketentuan resmi pengesahan KRS oleh Dosen Pembimbing Akademik pada Sub-bab 3.2.1?",
+    "answer": "Sub-bab 3.2.1 Pedoman UNSRI 2026/2027 menyatakan bahwa mahasiswa dapat mengikuti kegiatan akademik apabila terdaftar aktif, tidak dalam masa Stop Out atau skorsing, telah membayar biaya pendidikan, serta telah mengisi pendaftaran mata kuliah online dan menyerahkan print-out KRS yang ditandatangani Dosen Pembimbing Akademik (PA) ke sub-bagian akademik/program studi.",
+    "keywords": [
+      "sub-bab 3.2.1",
+      "pengesahan krs",
+      "print-out krs",
+      "dosen pa",
+      "syarat perkuliahan"
+    ],
+    "domain": "Pedoman UNSRI Bab III",
+    "source_status": "terverifikasi_pedoman_unsri_2026_2027",
+    "source_reference": "Buku Pedoman Akademik UNSRI 2026/2027, Sub-bab 3.2.1 (hal. 40)"
+  },
+  {
+    "id": "PEDOMAN_BAB4_P3",
+    "category": "Pedoman UNSRI Bab V",
+    "type": "passage",
+    "parent_doc": "Buku Pedoman Akademik Universitas Sriwijaya",
+    "chapter": "Bab IV Sistem Kredit Semester dan Registrasi",
+    "section": "Pasal 16: Ketentuan Pembatalan Mata Kuliah dan Batas KPRS",
+    "passage_index": 3,
+    "title": "Definisi dan Isi Resmi Surat Keterangan Pendamping Ijazah / SKPI (Sub-bab 5.5)",
+    "question": "Apa fungsi dan isi resmi Surat Keterangan Pendamping Ijazah (SKPI) pada Sub-bab 5.5?",
+    "answer": "Sub-bab 5.5 Pedoman UNSRI 2026/2027 (mengacu Permendikbudristek No. 50 Tahun 2024 dan Peraturan Rektor UNSRI No. 01 Tahun 2018) menetapkan bahwa SKPI adalah dokumen pendamping ijazah yang memuat capaian pembelajaran lulusan, peringkat KKNI, status akreditasi, sistem penilaian, serta prestasi akademik/non-akademik lulusan—diterbitkan bersamaan dengan ijazah.",
+    "keywords": [
+      "sub-bab 5.5",
+      "skpi",
+      "pendamping ijazah",
+      "kkni",
+      "capaian pembelajaran",
+      "permendikbudristek 50 2024"
+    ],
+    "domain": "Pedoman UNSRI Bab V",
+    "source_status": "terverifikasi_pedoman_unsri_2026_2027",
+    "source_reference": "Buku Pedoman Akademik UNSRI 2026/2027, Sub-bab 5.5 (hal. 117–118)"
+  },
+  {
+    "id": "PEDOMAN_BAB5_P1",
+    "category": "Pedoman UNSRI Bab III",
+    "type": "passage",
+    "parent_doc": "Buku Pedoman Akademik Universitas Sriwijaya",
+    "chapter": "Bab V Evaluasi Keberhasilan Studi dan Batas Waktu",
+    "section": "Pasal 18: Evaluasi Dua Tahun Pertama (Tahap I)",
+    "passage_index": 1,
+    "title": "Kriteria Evaluasi Akhir Tahun Kedua Program Sarjana: 52 SKS & IPK 2,00 (Sub-bab 3.8.1)",
+    "question": "Berapa batas minimal SKS dan IPK pada evaluasi akhir tahun kedua Program Sarjana UNSRI?",
+    "answer": "Sub-bab 3.8.1 Pedoman UNSRI 2026/2027 menetapkan bahwa mahasiswa Program Sarjana (S1) dinyatakan putus studi (Drop Out) apabila pada akhir tahun kedua (4 semester pertama) keseluruhan SKS yang dikumpulkan kurang dari 52 SKS atau Indeks Prestasi Kumulatif (IPK) yang dicapai kurang dari 2,00.",
+    "keywords": [
+      "sub-bab 3.8.1",
+      "evaluasi tahun kedua",
+      "52 sks",
+      "ipk 2.00",
+      "putus studi",
+      "sarjana"
+    ],
+    "domain": "Pedoman UNSRI Bab III",
+    "source_status": "terverifikasi_pedoman_unsri_2026_2027",
+    "source_reference": "Buku Pedoman Akademik UNSRI 2026/2027, Sub-bab 3.8.1 (hal. 65)"
+  },
+  {
+    "id": "PEDOMAN_BAB5_P2",
+    "category": "Pedoman UNSRI Bab III",
+    "type": "passage",
+    "parent_doc": "Buku Pedoman Akademik Universitas Sriwijaya",
+    "chapter": "Bab V Evaluasi Keberhasilan Studi dan Batas Waktu",
+    "section": "Pasal 19: Batas Masa Studi Maksimal dan Pemutusan Studi (Drop Out)",
+    "passage_index": 2,
+    "title": "Batas Masa Studi Maksimal 14 Semester dan Kriteria Drop Out S1 (Sub-bab 3.8.1)",
+    "question": "Kapan mahasiswa Program Sarjana dinyatakan putus studi (Drop Out) berdasarkan Sub-bab 3.8.1?",
+    "answer": "Sub-bab 3.8.1 Pedoman UNSRI 2026/2027 menetapkan mahasiswa Sarjana (S1) putus studi apabila: (1) akhir tahun kedua < 52 SKS atau IPK < 2,00; (2) pada semester 14 masih memiliki nilai E atau nilai D > 10% dari 144 SKS; (3) tidak membayar UKT tanpa mengajukan SO; atau (4) melampaui batas masa studi maksimal 14 semester (7 tahun).",
+    "keywords": [
+      "sub-bab 3.8.1",
+      "14 semester",
+      "144 sks",
+      "drop out",
+      "putus studi",
+      "nilai d 10 persen"
+    ],
+    "domain": "Pedoman UNSRI Bab III",
+    "source_status": "terverifikasi_pedoman_unsri_2026_2027",
+    "source_reference": "Buku Pedoman Akademik UNSRI 2026/2027, Sub-bab 3.8.1 (hal. 65)"
+  },
+  {
+    "id": "PEDOMAN_BAB6_P1",
+    "category": "Pedoman UNSRI Bab III & IV",
+    "type": "passage",
+    "parent_doc": "Buku Pedoman Akademik Universitas Sriwijaya",
+    "chapter": "Bab VI Tata Tertib dan Kode Etik Kehidupan Kampus",
+    "section": "Pasal 24: Sanksi Pelanggaran Integritas Akademik dan Joki Ujian",
+    "passage_index": 1,
+    "title": "Sanksi Pelanggaran Kode Etik, Kecurangan Akademik, dan Pemberhentian (Sub-bab 3.8.2 & 4.10.1)",
+    "question": "Apa sanksi resmi universitas atas pelanggaran kode etik berat, kecurangan akademik, atau plagiarisme?",
+    "answer": "Sub-bab 3.8.2 dan 4.10.1 Pedoman UNSRI 2026/2027 menetapkan bahwa mahasiswa yang melanggar etika akademik, melakukan plagiarisme, kecurangan ujian/perjokian, tindakan kriminal, narkoba, atau pelanggaran berat lainnya dikenakan sanksi berjenjang mulai dari pembatalan nilai, skorsing akademik, hingga pemberhentian/dikeluarkan dari Universitas Sriwijaya dengan SK Rektor.",
+    "keywords": [
+      "sub-bab 3.8.2",
+      "sub-bab 4.10.1",
+      "kode etik",
+      "kecurangan ujian",
+      "plagiarisme",
+      "skorsing",
+      "pemberhentian"
+    ],
+    "domain": "Pedoman UNSRI Bab III & IV",
+    "source_status": "terverifikasi_pedoman_unsri_2026_2027",
+    "source_reference": "Buku Pedoman Akademik UNSRI 2026/2027, Sub-bab 3.8.2 & 4.10.1 (hal. 66, 108–112)"
+  },
+  {
+    "id": "PEDOMAN_BAB7_P1",
+    "category": "Pedoman UNSRI Bab IV",
+    "type": "passage",
+    "parent_doc": "Buku Pedoman Akademik Universitas Sriwijaya",
+    "chapter": "Bab VII Tugas Akhir, Ujian Skripsi, dan Yudisium",
+    "section": "Pasal 28: Persyaratan Sidang Ujian Komprehensif Skripsi",
+    "passage_index": 1,
+    "title": "Pelaporan Kekerasan dan Perlindungan Korban melalui SATGAS PPKPT (Sub-bab 4.4)",
+    "question": "Bagaimana mekanisme pelaporan dan perlindungan korban kekerasan di kampus melalui SATGAS PPKPT?",
+    "answer": "Sub-bab 4.4 (4.4.1–4.4.2) Pedoman UNSRI 2026/2027 mengatur Satuan Tugas Pencegahan dan Penanganan Kekerasan Perguruan Tinggi (SATGAS PPKPT) yang menerima laporan kekerasan/pelecehan dari korban atau saksi secara rahasia, melakukan pendampingan psikologis/hukum, serta menjamin perlindungan akademik dan keamanan pelapor, korban, serta saksi di lingkungan UNSRI.",
+    "keywords": [
+      "sub-bab 4.4",
+      "satgas ppkpt",
+      "kekerasan",
+      "pelecehan",
+      "pelaporan",
+      "perlindungan korban"
+    ],
+    "domain": "Pedoman UNSRI Bab IV",
+    "source_status": "terverifikasi_pedoman_unsri_2026_2027",
+    "source_reference": "Buku Pedoman Akademik UNSRI 2026/2027, Sub-bab 4.4, 4.4.1 & 4.4.2 (hal. 97–99)"
+  },
+  {
+    "id": "PEDOMAN_BAB7_P2",
+    "category": "Pedoman UNSRI Bab III",
+    "type": "passage",
+    "parent_doc": "Buku Pedoman Akademik Universitas Sriwijaya",
+    "chapter": "Bab VII Tugas Akhir, Ujian Skripsi, dan Yudisium",
+    "section": "Pasal 29: Predikat Kelulusan Sarjana (Dengan Pujian / Cumlaude)",
+    "passage_index": 2,
+    "title": "Kriteria Predikat Kelulusan Dengan Pujian (Cumlaude) Program Sarjana (Sub-bab 3.12.2)",
+    "question": "Apa syarat resmi meraih predikat kelulusan Dengan Pujian (Cumlaude) Program Sarjana UNSRI?",
+    "answer": "Tabel 3.9 Sub-bab 3.12.2 Pedoman UNSRI 2026/2027 menetapkan predikat Dengan Pujian (Cumlaude) untuk Program Sarjana diberikan kepada lulusan dengan IPK 3,51–4,00, masa studi maksimum 8 semester, tidak terdapat mata kuliah bernilai C, nilai skripsi A, tidak pernah mengulang mata kuliah, dan bukan mahasiswa pindahan. IPK 3,01–3,50 mendapat predikat Sangat Memuaskan.",
+    "keywords": [
+      "sub-bab 3.12.2",
+      "tabel 3.9",
+      "cumlaude",
+      "dengan pujian",
+      "ipk 3.51",
+      "nilai skripsi a",
+      "tanpa nilai c"
+    ],
+    "domain": "Pedoman UNSRI Bab III",
+    "source_status": "terverifikasi_pedoman_unsri_2026_2027",
+    "source_reference": "Buku Pedoman Akademik UNSRI 2026/2027, Sub-bab 3.12.2 Tabel 3.9 (hal. 71–72)"
+  }
+]
