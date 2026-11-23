@@ -7,7 +7,6 @@
 
 Implementasi terverifikasi, evaluasi reproduksibel, antarmuka _Explainable Information Retrieval_ (Streamlit), dan naskah ilmiah untuk sistem temu kembali **FAQ & Pedoman Akademik Perguruan Tinggi** berbasis **Okapi BM25 (IDF Positif)** dan **Fast-Forward Dense Index** (`paraphrase-multilingual-MiniLM-L12-v2` pada CPU).
 
->  **Dokumentasi teknis & panduan lengkap tersedia di [DOKUMENTASI.md](DOKUMENTASI.md).**
 >  **Naskah paper terverifikasi:** [Naskah_Paper.pdf](Naskah_Paper.pdf) | [Naskah_Paper.docx](Naskah_Paper.docx)
 
 ---
@@ -76,7 +75,6 @@ Hiperparameter dipilih murni pada **Dev Set (`n = 20`)**: **`α* = 0,1`** (`nDCG
 | `dataset_pedoman_akademik.json` / `.csv` | 43 entitas FAQ & pasal pedoman (32 terverifikasi Pedoman UNSRI 2026/2027 + 11 operasional)                                 |
 | `queries_eval.json`                      | 50 kueri uji mahasiswa terpisah (20 dev + 30 test) beranotasi relevansi bertingkat                                         |
 | `hasil_evaluasi/`                        | Luaran CSV (`dev_sweep_alpha`, `test_ringkasan`, `test_per_kategori`, `test_per_kueri`), `metadata.json`, & grafik 300 DPI |
-| `DOKUMENTASI.md`                         | Dokumentasi teknis lengkap (API, arsitektur, metodologi, audit, & panduan presentasi)                                      |
 | `Naskah_Paper_FAQ43.pdf` / `.docx`       | Naskah ilmiah 4 halaman lengkap dengan grafik dan tabel terverifikasi                                                      |
 
 ---
