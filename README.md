@@ -7,8 +7,8 @@
 
 Implementasi terverifikasi, evaluasi reproduksibel, antarmuka _Explainable Information Retrieval_ (Streamlit), dan naskah ilmiah untuk sistem temu kembali **FAQ & Pedoman Akademik Perguruan Tinggi** berbasis **Okapi BM25 (IDF Positif)** dan **Fast-Forward Dense Index** (`paraphrase-multilingual-MiniLM-L12-v2` pada CPU).
 
-> 📖 **Dokumentasi teknis & panduan lengkap tersedia di [DOKUMENTASI.md](DOKUMENTASI.md).**
-> 📄 **Naskah paper terverifikasi:** [Naskah_Paper.pdf](Naskah_Paper.pdf) | [Naskah_Paper.docx](Naskah_Paper.docx)
+>  **Dokumentasi teknis & panduan lengkap tersedia di [DOKUMENTASI.md](DOKUMENTASI.md).**
+>  **Naskah paper terverifikasi:** [Naskah_Paper.pdf](Naskah_Paper.pdf) | [Naskah_Paper.docx](Naskah_Paper.docx)
 
 ---
 
@@ -43,30 +43,6 @@ flowchart LR
 - **Korpus Tersinkronisasi Pedoman UNSRI 2026/2027:** 43 entitas (**32 terverifikasi langsung** terhadap _Buku Pedoman Akademik & Kemahasiswaan UNSRI 2026/2027_ + **11 kurasi operasional unit terkait**), mencakup KPM, USEPT, SKPI, kehadiran 85%, evaluasi 52 SKS, Stop Out maks 1 semester, Cumlaude, dan SATGAS PPKPT.
 - **Evaluasi Dev/Test Terpisah & Reproduksibel:** 50 kueri terpisah ketat (**20 dev** untuk penyetelan $\alpha$ / **30 test tak terlihat** dalam 4 kategori), benchmark latensi CPU `p50/p95`, dan **20/20 unit test lulus**.
 
----
-
-## Instalasi & Cara Menjalankan
-
-```powershell
-# 1. (Opsional) Buat dan aktifkan virtual environment
-python -m venv .venv
-# Windows 11:
-.venv\Scripts\activate
-# macOS / Linux:
-# source .venv/bin/activate
-
-# 2. Pasang dependensi
-pip install -r requirements.txt
-
-# 3. Jalankan 20 unit & regression test
-pytest -q
-
-# 4. Jalankan evaluasi penuh (Dev sweep α, Unseen Test 30 kueri, Latensi CPU)
-python evaluate.py --top-k 5 --warmup 10 --repeats 8
-
-# 5. Jalankan antarmuka web Explainable IR (http://localhost:8501)
-streamlit run faq_pipeline.py
-```
 
 ---
 
@@ -105,9 +81,3 @@ Hiperparameter dipilih murni pada **Dev Set (`n = 20`)**: **`α* = 0,1`** (`nDCG
 
 ---
 
-## Tim Pengembang (Kelompok 8 — Temu Kembali Informasi, Fasilkom UNSRI)
-
-- **M. Radikal Gymnastiar** (`09021282328050`)
-- **M. Ilham Syafik** (`09021182328015`)
-- **Muhamad Arya Hatta** (`09021282328094`)
-- **Aditya Akmal Agym** (`09021282328072`)
